@@ -1,5 +1,5 @@
 _repo: Tuhlaajapoika_60679
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Der verlorene Sohn. Finnish
 contributor:
   illustrator:
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heyse, Paul
@@ -27,6 +30,8 @@ creator:
     - http://de.wikipedia.org/wiki/Paul_Heyse
     - http://en.wikipedia.org/wiki/Paul_Heyse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60679#Tuhlaajapoika
 gutenberg_issued: '2019-11-13'
 gutenberg_type: Text
 identifiers:
