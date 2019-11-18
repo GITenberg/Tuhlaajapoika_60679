@@ -1,0 +1,43 @@
+_repo: Tuhlaajapoika_60679
+_version: 0.0.1
+alternative_title: Der verlorene Sohn. Finnish
+contributor:
+  illustrator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setala, Helmi
+    - Helmi Setälä
+    - Setälä, Helmi
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heyse, Paul Johann Ludwig von
+    - Heise, Paul
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+description: ''
+gutenberg_issued: '2019-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60679'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Tuhlaajapoika
+url: http://www.gutenberg.org/ebooks/60679
